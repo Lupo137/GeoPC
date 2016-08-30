@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "65922740186",
+    "firebase_url": "https://protciv-141015.firebaseio.com",
+    "project_id": "protciv-141015",
+    "storage_bucket": "protciv-141015.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65922740186:android:2c77abfaee88a604",
+        "android_client_info": {
+          "package_name": "samu.andre.geopc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65922740186-kishvt33g52gu4rghi2960t6ikqehu1q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "samu.andre.geopc",
+            "certificate_hash": "7EE67E8FE41CE0D3435896A8E462C79574D3ABDF"
+          }
+        },
+        {
+          "client_id": "65922740186-mifql1cq8ui9fs2f6d51j7o9a8uqd0ug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDtEY58SzJW7MEefUehJlQ9iH04FzchiM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "65922740186-mifql1cq8ui9fs2f6d51j7o9a8uqd0ug.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
